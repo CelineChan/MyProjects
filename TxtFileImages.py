@@ -18,12 +18,12 @@ fname = input("Enter file name: ")
 
 #Use default one if no text file provided
 if len(fname) < 1 :
-    fname = "testimage.txt"
+    fname = "EvolutionaryTable.txt"
 
 #Fill the white spaces and print results to a new text file
 def replace_white_space(infile, outfile):
     #read input file and write to output file
-    with open(infile, "rt") as fin:
+    with open(infile, "rt", encoding = "utf8") as fin:
         print("Processing...")
         with open(outfile, "wb") as fout:
 
