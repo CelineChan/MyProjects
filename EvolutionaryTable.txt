@@ -1,0 +1,276 @@
+
+
+
+                                  Evolutionary Table
+        
+         Era  Period/Epoch          Years Ago  Age  Event              
+        НННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННННН
+        ЪДДДВДДДДДДДДДДДДДДДДДВ 4,600,000,000 ВДДДВ Earth Forms            
+        і P і (Azoic)         і 4,500,000,000 і P і Complex molecules
+        і r і                 і 4,250,000,000 і r і Supermolecules
+        і e і                 і 4,000,000,000 і e і Oceans form; RNA molecules
+        і c і                 і 3,750,000,000 і l і Proto-viruses
+        і a і                 і 3,500,000,000 і i і Microspheres
+        і m Г Д Д Д Д Д Д Д Д Е 3,300,000,000 і f і Viruses
+        і b і Archeozoic      і 3,150,000,000 і e і                        
+        і r і                 і 3,000,000,000 ГДДДґ 
+        і i і                 і 2,800,000,000 і S і Prokaryotes
+        і a і                 і 2,650,000,000 і o і                        
+        і n ГДДДДДДДДДДДДДДДДДЕ 2,500,000,000 і f і Blue-green algae
+        і   і Proterozoic     і 2,400,000,000 і t і                        
+        і   і                 і 2,250,000,000 і   і     і a і 1 = Marine Invertebrates
+        і   і                 і 2,100,000,000 і L і     і g і 2 = Fishes   
+        і   і                 і 2,000,000,000 і i і     і e і 3 = Amphibians
+        і   і                 і 1,900,000,000 і f і                        
+        і   і                 і 1,800,000,000 і e і Proto-bacteria
+        і   і                 і 1,700,000,000 і   і                        
+        і   і                 і 1,600,000,000 і   і DNA molecules
+        і   і                 і 1,500,000,000 і   і Eukariotes
+        і   і                 і 1,400,000,000 і   і                        
+        і   і                 і 1,350,000,000 і   і                        
+        і   і                 і 1,250,000,000 і   і Green algae
+        і   і                 і 1,200,000,000 і   і                        
+        і   і                 і 1,100,000,000 і   і                        
+        і   і                 і 1,050,000,000 і   і                        
+        і   і                 і 1,000,000,000 і   і Protozoans
+        і   і                 і   950,000,000 і   і                        
+        і   і                 і   900,000,000 і   і                        
+        і   і                 і   850,000,000 і   і                        
+        і   і                 і   800,000,000 і   і Porifera
+        і   і                 і   750,000,000 і   і                        
+        і   і                 і   700,000,000 і   і Coelenterates
+        і   і                 і   670,000,000 і   і                        
+        і   і                 і   630,000,000 і   і                        
+        і   і                 і   600,000,000 і   і Annelids, echinoderms
+        ГДДДЕДДДДДДДДДДДДДДДДДЕДД 570,000,000 ГДДДґ Chordates
+        і P і Cambrian        і   530,000,000 і 1 і
+        і a ГДДДДДДДДДДДДДДДДДЕДД 500,000,000 і   і Cephalopods, Arthropods
+        і l і Ordovician      і   475,000,000 і   і 
+        і e і                 і   450,000,000 і   і Vertebrates, Ostracoderms
+        і o ГДSilurianДДДДДДДДЕДД 425,000,000 і   і Land plants
+        і z ГДДДДДДДДДДДДДДДДДЕДД 405,000,000 ГДДДґ Land arthropods; Teleosts
+        і o і Devonian        і   375,000,000 і 2 і Rhipidistians
+        і i ГДДДДДДДДДДДДДДДДДЕДД 345,000,000 ГДДДґ Land vertebrates; Eogyrini, ferns
+        і c і Carboniferous   і   330,000,000 і 3 і                              
+        і   і                 і   310,000,000 і   і                        
+        і   і                 і   300,000,000 і   і Eosuchians
+        і   ГДДДДДДДДДДДДДДДДДЕДД 280,000,000 і   і Mountain building; Conifers
+
+
+
+        і   і Permian         і   265,000,000 і   і                        
+        і   і                 і   250,000,000 і   і Anapsids
+        і   і                 і   240,000,000 і   і Breakup of Pangea; Synapsids
+        ГДДДЕДДДДДДДДДДДДДДДДДЕДД 230,000,000 ГДДДґ Permian Great Dying; Sauriscians
+        і M і Triassic        і   210,000,000 і R і Monotremes
+        і e і                 і   200,000,000 і e і Ichthyosaurs
+        і s ГДДДДДДДДДДДДДДДДДЕДД 190,000,000 і p і Marsupials
+        і o і Jurassic        і   180,000,000 і t і Pterosaurs
+        і z і                 і   170,000,000 і i і                        
+        і o і                 і   160,000,000 і l і Plesiosaurs
+        і i і                 і   150,000,000 і e і Archeopteryx
+        і c ГДДДДДДДДДДДДДДДДДЕДД 140,000,000 і s і                        
+        і   і Cretaceous      і   135,000,000 і   і                        
+        і   і                 і   125,000,000 і   і Ornithiscians
+        і   і                 і   120,000,000 і   і                        
+        і   і                 і   110,000,000 і   і Birds
+        і   і                 і   105,000,000 і   і                        
+        і   і                 і   100,000,000 і   і                        
+        і   і                 і    95,000,000 і   і Placentals
+        і   і                 і    90,000,000 і   і                        
+        і   і                 і    85,000,000 і   і                        
+        і   і                 і    80,000,000 і   і                        
+        і   і                 і    75,000,000 і   і 
+        і   і                 і    70,000,000 і   і Ichthyornes, Hesperornes
+        ГДДДЕДДДВДДДДДДДДДДДДДЕДДД 65,000,000 ГДДДґ Cretaceous Great Dying 
+        і C і T і Paleocene   і    63,000,000 і M і Miacids, creodonts
+        і e і e і             і    60,000,000 і a і Profelids, procanids, phalangers
+        і n і r ГДДДДДДДДДДДДДЕДДД 55,000,000 і m і Civids, mustelids
+        і o і t і Eocene      і    53,000,000 і m і Tarsoidians, eohippus
+        і z і i і             і    50,000,000 і a і Prosimians, titanotheres
+        і o і a і             і    47,500,000 і l і Anthropoidians, procyonids
+        і i і r і             і    45,000,000 і s і 
+        і c і y і             і    42,500,000 і   і 
+        і   і   ГДДДДДДДДДДДДДЕДДД 40,000,000 і   і Dinictis, holophoneus, 
+        і   і   і Oligocene   і    37,500,000 і   і                    \aegyptopithecus
+        і   і   і             і    35,000,000 і   і Canids
+        і   і   і             і    33,000,000 і   і Mesohippus
+        і   і   і             і    31,500,000 і   і 
+        і   і   і             і    30,000,000 і   і 
+        і   і   і             і    28,000,000 і   і Pseudailurus
+        і   і   і             і    26,500,000 і   і Smilodon, pliopithecus
+        і   і   ГДДДДДДДДДДДДДЕДДД 25,000,000 і   і 
+        і   і   і Miocene     і    23,500,000 і   і Sivapithecus, dryopithecus/Proconsul 
+        і   і   і             і    22,500,000 і   і Merychippus
+        і   і   і             і    21,000,000 і   і Ramapithecus
+        і   і   і             і    20,000,000 і   і Dogs, wolves
+        і   і   і             і    19,000,000 і   і 
+        і   і   і             і    18,000,000 і   і Acinonix: cheetahs
+        і   і   і             і    17,000,000 і   і 
+        і   і   і             і    16,000,000 і   і 
+        і   і   і             і    15,000,000 і   і 
+        і   і   і             і    14,000,000 і   і 
+        і   і   і             і    13,500,000 і   і 
+        і   і   і             і    12,500,000 і   і 
+
+
+
+        і   і   і             і    12,000,000 і   і Felis: lesser cats
+        і   і   і             і    11,000,000 і   і Felis lunensis: Martelli's cat
+        і   і   і             і    10,500,000 і   і 
+        і   і   ГДДДДДДДДДДДДДЕДДД 10,000,000 і   і Felis manul: Pallas' cat
+        і   і   і Pliocene    і     9,500,000 і   і 
+        і   і   і             і     9,000,000 і   і 
+        і   і   і             і     8,500,000 і   і 
+        і   і   і             і     8,000,000 і   і 
+        і   і   і             і     7,500,000 і   і 
+        і   і   і             і     7,000,000 і   і 
+        і   і   і             і     6,700,000 і   і 
+        і   і   і             і     6,300,000 і   і 
+        і   і   і             і     6,000,000 і   і Pliohippus
+        і   і   і             і     5,600,000 і   і 
+        і   і   і             і     5,300,000 і   і 
+        і   і   і             і     5,000,000 і   і 
+        і   і   і             і     4,750,000 і   і Australopithecus afaransis ("Lucy")
+        і   і   і             і     4,500,000 і   і Australopithecus africanus
+        і   і   і             і     4,250,000 і   і 
+        і   і   і             і     4,000,000 і   і Australopithecus robustus
+        і   і   і             і     3,750,000 і   і 
+        і   і   і             і     3,500,000 і   і Hyenas
+        і   і   і             і     3,300,000 і   і 
+        і   і   і             і     3,150,000 і   і 
+        і   і   і             і     3,000,000 і   і Panthera: greater cats 
+        і   і   і             і     2,800,000 і   і 
+        і   і   і             і     2,650,000 і   і 
+        і   і   і             і     2,500,000 і   і Equus: modern horses 
+        і   і   і             і     2,350,000 і   і 
+        і   і   і             і     2,250,000 і   і 
+        і   і   і             і     2,100,000 і   і 
+        і   ГДДДЕДДДДДДДДДДДДДЕДДДД 2,000,000 ГДДДґ 
+        і   і Q і Pliestocene і     1,900,000 і M і 
+        і   і u і             і     1,800,000 і a і Homo habilis
+        і   і a і             і     1,700,000 і n і 
+        і   і t і             і     1,600,000 і   і 
+        і   і e і             і     1,500,000 і   і Homo erectus
+        і   і r і             і     1,400,000 і   і  
+        і   і n і             і     1,350,000 і   і
+        і   і a і             і     1,250,000 і   і  
+        і   і r і             і     1,200,000 і   і  
+        і   і y і             і     1,100,000 і   і  
+        і   і   і             і     1,050,000 і   і  
+        і   і   і             і     1,000,000 і   і  
+        і   і   і             і       950,000 і   і
+        і   і   і             і       900,000 і   і First ice age begins
+        і   і   і             і       850,000 і   і
+        і   і   і             і       800,000 і   і
+        і   і   і             і       750,000 і   і
+        і   і   і             і       700,000 і   і
+        і   і   і             і       665,000 і   і Felis sylvestris: European wildcat 
+        і   і   і             і       630,000 і   і
+        і   і   і             і       600,000 і   і Second ice age begins
+        і   і   і             і       560,000 і   і
+
+
+
+        і   і   і             і       530,000 і   і
+        і   і   і             і       500,000 і   і
+        і   і   і             і       475,000 і   і
+        і   і   і             і       450,000 і   і
+        і   і   і             і       425,000 і   і
+        і   і   і             і       400,000 і   і Third ice age begins
+        і   і   і             і       375,000 і   і
+        і   і   і             і       350,000 і   і
+        і   і   і             і       330,000 і   і
+        і   і   і             і       315,000 і   і
+        і   і   і             і       300,000 і   і Felis lybica: African wildcat 
+        і   і   і             і       280,000 і   і
+        і   і   і             і       265,000 і   і
+        і   і   і             і       250,000 і   і
+        і   і   і             і       235,000 і   і
+        і   і   і             і       225,000 і   і
+        і   і   і             і       210,000 і   і
+        і   і   і             і       200,000 і   і
+        і   і   і             і       190,000 і   і
+        і   і   і             і       180,000 і   і
+        і   і   і             і       170,000 і   і
+        і   і   і             і       160,000 і   і
+        і   і   і             і       150,000 і   і
+        і   і   і             і       140,000 і   і
+        і   і   і             і       135,000 і   і
+        і   і   і             і       125,000 і   і
+        і   і   і             і       120,000 і   і
+        і   і   і             і       110,000 і   і
+        і   і   і             і       105,000 і   і
+        і   і   і             і       100,000 і   і Homo sapiens neanderthalensis
+        і   і   і             і        95,000 і   і
+        і   і   і             і        90,000 і   і
+        і   і   і             і        85,000 і   і
+        і   і   і             і        80,000 і   і
+        і   і   і             і        75,000 і   і
+        і   і   і             і        70,000 і   і
+        і   і   і             і        67,000 і   і
+        і   і   і             і        63,000 і   і
+        і   і   і             і        60,000 і   і
+        і   і   і             і        56,000 і   і
+        і   і   і             і        53,000 і   і
+        і   і   і             і        50,000 і   і Fourth ice age begins
+        і   і   і             і        47,500 і   і
+        і   і   і             і        45,000 і   і
+        і   і   і             і        42,500 і   і
+        і   і   і             і        40,000 і   і
+        і   і   і             і        37,500 і   і
+        і   і   і             і        35,000 і   і 
+        і   і   і             і        33,000 і   і
+        і   і   і             і        31,500 і   і
+        і   і   і             і        30,000 і   і Homo sapiens sapiens: Cro-Magnon man 
+        і   і   і             і        28,000 і   і
+        і   і   і             і        26,500 і   і
+        і   і   і             і        25,000 і   і Possible domestication of dog 
+
+
+
+        і   і   і             і        23,500 і   і
+        і   і   і             і        22,500 і   і
+        і   і   і             і        21,000 і   і
+        і   і   і             і        20,000 і   і Probable domestication of dog
+        і   і   і             і        19,000 і   і
+        і   і   і             і        18,000 і   і
+        і   і   і             і        17,000 і   і
+        і   і   і             і        16,000 і   і
+        і   і   і             і        15,000 і   і
+        і   і   і             і        14,000 і   і
+        і   і   і             і        13,500 і   і Herding invented
+        і   і   і             і        12,500 і   і Smilodon becomes extinct
+        і   і   і             і        12,000 і   і Agriculture invented
+        і   і   і             і        11,000 і   і Civilization invented
+        і   і   і             і        10,500 і   і
+        і   і   ГДДДДДДДДДДДДДЕДДДДДДД 10,000 ГДДДґ
+        і   і   і Holocene    і         9,500 і C і
+        і   і   і             і         9,000 і i і
+        і   і   і             і         8,500 і v і
+        і   і   і             і         8,000 і i і
+        і   і   і             і         7,500 і l і
+        і   і   і             і         7,000 і i і Possible domestication of cat
+        і   і   і             і         6,700 і z і
+        і   і   і             і         6,300 і a і
+        і   і   і             і         6,000 і t і 4004 BC--Creation: Bishop Ussher
+        і   і   і             і         5,600 і i і 3760 BC--Creation: Orthodox Judaism
+        і   і   і             і         5,300 і o і
+        і   і   і             і         5,000 і n і Probable domestication of cat
+        і   і   і             і         4,750 і   і Early Egyptian cat cults
+        і   і   і             і         4,500 і   і First records of Bast
+        і   і   і             і         4,250 і   і First pyramids built
+        і   і   і             і         4,000 і   і
+        і   і   і             і         3,750 і   і
+        і   і   і             і         3,550 і   і Indus traders
+        і   і   і             і         3,350 і   і
+        і   і   і             і         3,150 і   і Phoenician traders
+        і   і   і             і         3,000 і   і Felis cattus: domestic cat
+        і   і   і             і         2,800 і   і 753 BC -- Rome founded
+        і   і   і             і         2,650 і   і
+        і   і   і             і         2,500 і   і
+        і   і   і             і         2,350 і   і Grecian conquest of Egypt
+        і   і   і             і         2,250 і   і
+        і   і   і             і         2,100 і   і Roman conquest of Egypt
+        і   і   і             і         2,000 і   і Beginning of Christian (Common) Era
+
